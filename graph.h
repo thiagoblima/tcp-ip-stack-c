@@ -1,10 +1,9 @@
 
 #include "gluethread/glthread.h"
 
-#define NODE_NAME_SIZE      16
-#define IF_NAME_SIZE        16
-#define MAX_INTF_PER_NODE   10
-
+#define NODE_NAME_SIZE 16
+#define IF_NAME_SIZE 16
+#define MAX_INTF_PER_NODE 10
 
 /*Forward Declarations*/
 typedef struct node_ node_t;
