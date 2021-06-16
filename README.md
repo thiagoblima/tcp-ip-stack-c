@@ -1,10 +1,9 @@
 # NetWorking Development TCP/IP Stack
 C/C++ Linux Project, Network Socket Programming, Build TCP/IP Stack, Final Year Project, L2 & L3 Implementation in C
 
-![](assets/cprogramming.png)
+![](assets/cprogramming.jpeg)
 
-
-## Release History
+## Release History  
 
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
